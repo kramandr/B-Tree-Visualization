@@ -1,4 +1,4 @@
-# Coding Standards CS4488 Capstone Project 
+# Coding Standards for CS4488 Capstone Project 
 
 - Consistent indentation to keep code readable
 - Prevent long lines that are difficult to read
