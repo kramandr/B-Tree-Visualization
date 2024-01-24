@@ -20,6 +20,20 @@ B-Trees and B+Trees are self-balancing tree data structures widely used in datab
 # Documentation
 Here is where the project management and other documentation documents can be linked.
 
+# Diagrams
+- Gantt Chart
+- Task Breakdown Diagram
+- Kanban Board
+- Use Case Diagram
+- Class Diagram
+- Sequence Diagram
+- Component Diagram
+- Entity-Relationship Diagram
+- Communication Diagram
+- Deployment Diagram
+- Class Diagram (detailed)
+- Activity Diagram
+
 # License
 This project is licensed under the MIT License. 
 
