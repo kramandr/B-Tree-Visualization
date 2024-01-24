@@ -8,7 +8,6 @@
 - Avoid unnecessary comments that restate the code
 - Clear documentation for functions and classes
 - Communicate changes through commit messages
-- Keep changelog up-to-date
 - Use meaningful branching strategies: e.g. feature/new-ui; release/v1.0.0, temp/, etc...
 
 
