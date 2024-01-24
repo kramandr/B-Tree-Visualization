@@ -13,9 +13,9 @@ B-Trees and B+Trees are self-balancing tree data structures widely used in datab
 - Animated representation of changes during tree operations
 
 # Project Structure
-/src: Contains the source code for the B-Tree and B+Tree visualizations.
-/docs: Documentation files, including user guides and developer documentation.
-/tests: Unit tests for ensuring the reliability of the implementations.
+- /src: Contains the source code for the B-Tree and B+Tree visualizations.
+- /docs: Documentation files, including user guides and developer documentation.
+- /tests: Unit tests for ensuring the reliability of the implementations.
 
 # Documentation
 Here is where the project management and other documentation documents can be linked.
