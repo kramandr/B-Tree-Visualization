@@ -1,0 +1,13 @@
+// TestProgram.cs
+
+using NUnit.Framework;
+
+[TestFixture]
+public class TestProgram
+{
+    [Test]
+    public void TestMain()
+    {
+        Assert.Pass();
+    }
+}
